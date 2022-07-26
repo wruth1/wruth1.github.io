@@ -2,16 +2,16 @@
 title: "SARS-Cov-2 Transmission in University Classes"
 collection: publications
 permalink: /publication/2022-SARS-CoV-2-Transmission-in-University-Classes
-excerpt: 'This paper models potential COVID outbreaks and the effects of control strategies.'
+excerpt: 'This paper models potential COVID outbreaks in a university and the effects of control strategies.'
 date: 2022-07-26
 venue: 'Arxiv'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+paperurl: 'http://wruth1.github.io/files/Ruth and Lockhart - 2022/Network Analysis - 2022Jul19.pdf'
+citation: 'Ruth, William and Lockhart, Richard (2022). "SARS-CoV-2 Transmission in University Classes" <i>Arxiv</i>. doi: https://doi.org/10.48550/arXiv.2104.12769.'
 ---
-This paper models how a COVID outbreak might occur at Simon Fraser University under different mitigation strategies.
+This paper models how a COVID outbreak might look at Simon Fraser University under different parameter settings and mitigation strategies.
 
-[Download paper](http://academicpages.github.io/files/paper1.pdf)
+[Download paper]('http://wruth1.github.io/files/Ruth and Lockhart - 2022/Network Analysis - 2022Jul19.pdf')
 [Download supplemental material for paper]
 [Github repository for paper]
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Ruth, William and Lockhart, Richard (2022). "SARS-CoV-2 Transmission in University Classes" <i>Arxiv</i>. doi: https://doi.org/10.48550/arXiv.2104.12769.
