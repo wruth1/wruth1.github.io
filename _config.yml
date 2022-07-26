@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "William Ruth"
-  avatar           : "profile.png"
+  avatar           : "files/Profile.jpg"
   bio              : "PhD candidate in Statistics at Simon Fraser University"
   location         : "Burnaby, BC, Canada"
   employer         :
