@@ -14,6 +14,8 @@ This paper models how a COVID outbreak might look at Simon Fraser University und
 
 [Github repository for paper](<https://github.com/wruth1/SARS-CoV-2_Transmission_in_University_Classes>)
 
+[Download data for paper](<https://github.com/wruth1/SARS-CoV-2_Transmission_in_University_Classes/tree/master/Data>)
+
 <!---
 This is an HTML comment
 
