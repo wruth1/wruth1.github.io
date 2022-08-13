@@ -22,7 +22,6 @@ This is an HTML comment
 
 Recommended citation: Ruth, William and Lockhart, Richard (2022). "SARS-CoV-2 Transmission in University Classes" <i>Arxiv</i>. doi: https://doi.org/10.48550/arXiv.2104.12769.
 
-From preamble, between `date' and `citation':
-venue: 'Arxiv'
+From preamble, between `venue' and `citation':
 paperurl: 'http://wruth1.github.io/files/Ruth and Lockhart - 2022/Network Analysis - 2022Jul19.pdf'
 -->
