@@ -5,11 +5,11 @@ permalink: /publication/2022-SARS-CoV-2-Transmission-in-University-Classes
 excerpt: 'This paper models potential COVID outbreaks in a university and the effects of control strategies.'
 date: 2022-07-26
 venue: 'Network Modelling Analysis in Health Informatics and Bioinformatics'
-citation: 'Ruth, William and Lockhart, Richard (2022). "SARS-CoV-2 Transmission in University Classes". <i>Network Modelling Analysis in Health Informatics and Bioinformatics</i> <b>11</b>, 32 (2022).'
+citation: 'Ruth, William and Lockhart, Richard. "SARS-CoV-2 Transmission in University Classes". <i>Network Modelling Analysis in Health Informatics and Bioinformatics</i> <b>11</b>, 32 (2022).'
 ---
 This paper models how a COVID outbreak might look at Simon Fraser University under different parameter settings and mitigation strategies.
 
-[Read the article](<https://doi.org/10.48550/arXiv.2104.12769>)
+[Read the article](<https://doi.org/10.1007/s13721-022-00375-1>), or [a pre-print on GitHub](<https://doi.org/10.48550/arXiv.2104.12769>)
 
 [Download supplemental material](<http://wruth1.github.io/files/Ruth and Lockhart - 2022/Supplemental Material - July 7 2022.pdf>)
 
