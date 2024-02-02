@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Statistics working with Prof. Richard Lockhart at Simon Fraser University. My research areas include epidemic modelling and analysis, particularly of COVID-19, using stochastic simulation and missing data methodology.
+I am a postoctoral fellow working on biostatistics with Prof. Bouchra Nasri at the Université de Montréal (working remotely from BC). My research areas include epidemic modelling and analysis, particularly of COVID-19, using stochastic simulation and missing data methodology. I am also interested in multilevel GLMs, particularly as they apply to causal mediation analysis.
