@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a postoctoral fellow working on biostatistics with Prof. Bouchra Nasri at the Université de Montréal (working remotely from BC). My research areas include epidemic modelling and analysis, particularly of COVID-19, using stochastic simulation and missing data methodology. I am also interested in multilevel GLMs, particularly as they apply to causal mediation analysis.
+I am a postdoctoral fellow working on biostatistics with Prof. Bouchra Nasri at the Université de Montréal (remotely from BC). My main research areas include causal mediation analysis and adaptive Monte Carlo methods. I also work on modelling the spread of infectious diseases, including COVID-19 and tuberculosis.
